@@ -1,0 +1,10 @@
+Put Partner 2's photos in this folder.
+
+Name them  1.jpg, 2.jpg, 3.png, 4.webp ...  (keep the numbers continuous)
+and the page finds them automatically — nothing else to edit.
+
+Any size works (big or small, portrait or landscape) — they are fitted into the frame.
+iPhone .HEIC photos must be converted to .jpg first.
+
+If you prefer your own file names, list them in  js/images.js  instead.
+(This text file is ignored by the page — you can delete it.)
